@@ -1,4 +1,4 @@
-## Hi I-m Vadim 👋
+## Hi I'm Vadim 👋
 ### Front-end developer
 ### I work in technology stack: HTML/CSS, JS, REACT/REDUX
 ### Contact with me:
